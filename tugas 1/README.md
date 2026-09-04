@@ -3,7 +3,7 @@
 ## 👤 Identitas
 - Nama: Rohelis  
 - NIM: 2225250064
-- kelas: 3B_pendidoikan matematika UNTIRTA
+- kelas: 3B_pendidikan matematika UNTIRTA
 
 ---
 
